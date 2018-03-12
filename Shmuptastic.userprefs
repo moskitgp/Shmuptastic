@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\PlayerShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\EnemyShips.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\MainMenu.cs" Line="15" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
